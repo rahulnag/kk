@@ -1,5 +1,4 @@
-{
-"Employees" : [
+[
 {
 "userId":"rirani",
 "jobTitleName":"Developer",
@@ -34,4 +33,3 @@
 "emailAddress":"tomhanks@gmail.com"
 }
 ]
-}
