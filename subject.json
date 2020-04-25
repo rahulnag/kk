@@ -1,30 +1,30 @@
 [
 {
 "subjectName":"HTML",
-"videoListLink":"https://rahulnag.github.io/kk/html.json",
+"videoListLink":"html.json",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTb5nIlQPtzhHdftpBWuia1KbE2P-C-pUO-2huLbAaXeZ8C_d1l&usqp=CAU"
 },
 {
 "subjectName":"CSS",
-"videoListLink":"https://rahulnag.github.io/kk/css.json",
+"videoListLink":"css.json",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTb5nIlQPtzhHdftpBWuia1KbE2P-C-pUO-2huLbAaXeZ8C_d1l&usqp=CAU"
 
 },
 {
 "subjectName":"Java",
-"videoListLink":"https://rahulnag.github.io/kk/java.json",
+"videoListLink":"java.json",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTb5nIlQPtzhHdftpBWuia1KbE2P-C-pUO-2huLbAaXeZ8C_d1l&usqp=CAU"
 
 },
 {
 "subjectName":"JavaScript",
-"videoListLink":"https://rahulnag.github.io/kk/javascript.json",
+"videoListLink":"javascript.json",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTb5nIlQPtzhHdftpBWuia1KbE2P-C-pUO-2huLbAaXeZ8C_d1l&usqp=CAU"
 
 },
 {
 "subjectName":"React JS",
-"videoListLink":"https://rahulnag.github.io/kk/reactjs.json",
+"videoListLink":"reactjs.json",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTb5nIlQPtzhHdftpBWuia1KbE2P-C-pUO-2huLbAaXeZ8C_d1l&usqp=CAU"
 
 }
